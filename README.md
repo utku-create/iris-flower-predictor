@@ -2,6 +2,8 @@
 
 Bu proje, **Iris Çiçeği** veri setini kullanarak verilen çiçek ölçümlerine göre çiçek türünü tahmin eden basit bir makine öğrenmesi uygulamasıdır. KNN algoritması kullanılarak modellenmiş ve Tkinter ile kullanıcı arayüzü oluşturulmuştur.
 
+![image](https://github.com/user-attachments/assets/d6b3d70f-d6bc-45e4-ab4f-4769db55bd3f)
+
 ---
 
 ## Özellikler
