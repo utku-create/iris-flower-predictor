@@ -24,17 +24,17 @@ python iris_predictor.py
 ---
 
 ## Nasıl Çalışır?
--Program, sklearn kütüphanesinden gelen Iris veri seti ile modeli eğitir.
--Kullanıcı TKinter arayüzünden dört farklı ölçümü girer.
--Model bu ölçümler üzerinden çiçeğin türünü tahmin eder ve ekranda gösterir.
+- Program, sklearn kütüphanesinden gelen Iris veri seti ile modeli eğitir.
+- Kullanıcı TKinter arayüzünden dört farklı ölçümü girer.
+- Model bu ölçümler üzerinden çiçeğin türünü tahmin eder ve ekranda gösterir.
 
 ---
 
 ## Teknolojiler
--Python
--scikit-learn
--pandas
--Tkinter (GUI)
+- Python
+- scikit-learn
+- pandas
+- Tkinter (GUI)
 
 ---
 
