@@ -13,12 +13,12 @@ Bu proje, **Iris Çiçeği** veri setini kullanarak verilen çiçek ölçümleri
 
 ---
 
-## KURULUM
+# KURULUM
 
-# 1-Gerekli kütüphaneleri yükleyin
+## 1-Gerekli kütüphaneleri yükleyin
 pip install scikit-learn pandas
 
-# 2-Python dosyasını çalıştırın:
+## 2-Python dosyasını çalıştırın:
 python iris_predictor.py
 
 ---
